@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0",
+    "save": "^2.9.0"
+  },
+  "name": "practice-javascript",
+  "version": "1.0.0",
+  "main": "AreaOf_Triangle.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
