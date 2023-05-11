@@ -4,14 +4,14 @@ function TripleSum(Int1, Int2) {
     
     if (Int1 == Int2) {
 
-        console.log (3 * (Int1 + Int2));
+        return (3 * (Int1 + Int2));
     } 
 
     else {
 
-        console.log (Int1 + Int2);
+        return (Int1 + Int2);
 
     }
 }
 
-TripleSum(5, 5);
+console.log(TripleSum(10, 10))
